@@ -1,6 +1,8 @@
-#include <_time.h>
+#include <time.h>
 #include <iostream>
 #include <unistd.h>
+#include <ctime>
+#include <cstdlib>
 
 #include "../includes/Base.hpp"
 #include "../includes/A.hpp"
